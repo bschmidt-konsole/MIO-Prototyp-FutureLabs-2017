@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MIO</string>
+    <string name="sms_message"><![CDATA[ From : %1$s<br/>%2$s]]></string>
+</resources>
